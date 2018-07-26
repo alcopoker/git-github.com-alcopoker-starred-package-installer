@@ -1,0 +1,1 @@
+# git-github.com-alcopoker-starred-package-installer
